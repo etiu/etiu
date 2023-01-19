@@ -6,6 +6,9 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/elisha-gabrielle-tiu-50120210a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://github.com/etiu">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)" alt = "Github Badge"/>
+    
   </a>
   
 </div align="center"> 
@@ -24,13 +27,41 @@
 
 ### :woman_technologist: About Me :
 
-I am a Drug Discovery Senior Scientist <img src= "https://media.giphy.com/media/jkj1A6IZy3KnsRU3RQ/giphy.gif" width = "30"> and Data Science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently based in the UK and originally from the Philippines.
+New to github! <img src = "https://media.giphy.com/media/XZlSZ7VqS6IfZQsE2c/giphy.gif" width = "30"> 
+I am a Drug Discovery Senior Scientist <img src= "https://media.giphy.com/media/jkj1A6IZy3KnsRU3RQ/giphy.gif" width = "30"> and an aspiring data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently based in the UK and originally from the Philippines. :seedling: My research interest :telescope: lies in the intersection of drug discovery, data science, and machine learning.
 
-- :telescope: I’m working as a scientist and contributing to drug discovery.
+On my Github profile, you will find my personal projects which showcase my data analysis skills and my ability to work with complex data <img src = "https://media.giphy.com/media/DDGQgJLkOlSKe08e74/giphy.gif" width = "30">. I am open to collaboration <img src = "https://media.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif" width = "30"> and feedback, and I am always looking to learn new things. 
+  
 
-- :seedling: I'm currently learning data science and machine learning.
+  
+ Let's connect! 
+  
+<img src = "https://media.giphy.com/media/Z6uC5u5z8UqgrPlMdZ/giphy.gif" width = "70">
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisha-gabrielle-tiu-50120210a/)
+
+Thanks for stopping by!
+
+
+<img src = "https://media.giphy.com/media/QmGShkWAWid2hzCqHE/giphy.gif" width = "30"> I’m still a work in progress and I am sharpening the skills in my data scientist toolbox! 
+
+
+---
+### Skills:
+
+- Python 
+
+- SQL
+
+- Data Visualisation
+
+- Data Preprocessing
+
+- Data Analysis
+
+- Machine Learning
+
+- Source version control
+
 
 
 ---
@@ -48,6 +79,12 @@ I am a Drug Discovery Senior Scientist <img src= "https://media.giphy.com/media/
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats :
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=etiu&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=etiu&langs_count=5&theme=tokyonight)]()
 
 
 
