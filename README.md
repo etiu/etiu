@@ -27,8 +27,7 @@
 
 ### :woman_technologist: About Me :
 
-New to github! <img src = "https://media.giphy.com/media/XZlSZ7VqS6IfZQsE2c/giphy.gif" width = "30"> 
-I am a Drug Discovery Senior Scientist <img src= "https://media.giphy.com/media/jkj1A6IZy3KnsRU3RQ/giphy.gif" width = "30"> and an aspiring data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently based in the UK and originally from the Philippines. :seedling: My research interest :telescope: lies in the intersection of drug discovery, data science, and machine learning.
+New to github! <img src = "https://media.giphy.com/media/XZlSZ7VqS6IfZQsE2c/giphy.gif" width = "30">  <img src= "https://media.giphy.com/media/jkj1A6IZy3KnsRU3RQ/giphy.gif" width = "30"> I am an aspiring data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently based in the UK. :seedling: I am interested in research involving :telescope: data science and machine learning. I am also looking for ways to apply data science in drug discovery.
 
 On my Github profile, you will find my personal projects which showcase my data analysis skills and my ability to work with complex data <img src = "https://media.giphy.com/media/DDGQgJLkOlSKe08e74/giphy.gif" width = "30">. I am open to collaboration <img src = "https://media.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif" width = "30"> and feedback, and I am always looking to learn new things. 
   
